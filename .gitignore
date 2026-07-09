@@ -1,7 +1,0 @@
-.venv/
-.vscode/
-_pycache_/
-*.pyc
-.env
-PYTHON_DE/data/starter/.env
-PYTHON_DE/logs/
