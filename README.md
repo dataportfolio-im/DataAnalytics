@@ -1,8 +1,6 @@
-# Loafly Pipeline Setup
+# StayNest - Session 6 Assignment
 
-1. Create a virtual environment
-2. Activate it
-3. Install dependencies
-pip install -r requirements.txt
-4. Run
-python -m PYTHON_DE.loafly.run_pipeline
+Step 1: Create a Volume and upload the data
+Step 2: Import the starter notebook
+Step 3: Point the notebook at your Volume(BASE = "/Volumes/workspace/default/staynest")
+Step 4: Attach compute and run Section 0
