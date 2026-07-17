@@ -1,4 +1,4 @@
-# StayNest - Session 6 Assignment
+# StayNest - Session 7 Assignment
 
 Step 1: Create a Volume and upload the data<br>
 Step 2: Import the starter notebook<br>
